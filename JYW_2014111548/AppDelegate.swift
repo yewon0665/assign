@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  0927_02
+//  JYW_2014111548
 //
-//  Created by 조예원 on 2017. 9. 27..
+//  Created by 조예원 on 2017. 10. 14..
 //  Copyright © 2017년 조예원. All rights reserved.
 //
 
